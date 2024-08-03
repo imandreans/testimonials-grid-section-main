@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](FireShot Capture 009 - Frontend Mentor - [Challenge Name Here] - 127.0.0.1.png)
+![screenshot](FireShot Capture 009 - Frontend Mentor - [Challenge Name Here] - 127.0.0.1.png)
 
 ### Links
 
